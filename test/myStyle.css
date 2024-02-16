@@ -1,0 +1,26 @@
+/* 这是一个注释
+    CSS实例：
+    1.选择器
+    2.声明（属性：值）
+*/
+
+table {
+    border-collapse: collapse;
+}
+
+table, th, td
+{
+    border: 1px solid black;
+}
+
+/*这是一个id选择器*/
+#diva {
+    background-color: aqua;
+    height: 1000;
+}
+
+/*这是一个类选择器*/
+a.sclb{
+   color: red; 
+   
+}
